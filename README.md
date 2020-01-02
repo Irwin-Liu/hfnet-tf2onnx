@@ -3,9 +3,9 @@ Change HFNet trained model from Tensorflow to ONNX
 
 **HFNet**
 
-HFNet tensorflow source code : [https://github.com/ethz-asl/hfnet]
+HFNet tensorflow source code : https://github.com/ethz-asl/hfnet
 
-HFNet trained model : [https://projects.asl.ethz.ch/datasets/doku.php?id=cvpr2019hfnet]
+HFNet trained model : https://projects.asl.ethz.ch/datasets/doku.php?id=cvpr2019hfnet
 
 **Environment**
 
