@@ -17,6 +17,8 @@ tf2onnx 1.6
 
 numpy 1.16.4
 
+Python 3.7
+
 **Usage of TF2ONNX**
 
 Command line
